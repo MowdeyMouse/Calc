@@ -1,1 +1,1 @@
-# Calc
+# This is a basic command line calculator. To get started with calculations enter a number into the input bar and a operand of your choice(+,-,x,/) then enter your second number to see your result. The calculator will prompt for inputs until you exit. You can exit by entering '!' instead of an operand.
